@@ -8,9 +8,6 @@
     src: url('Android.ttf');
 }
 
-* {
-    overflow-x: hidden;
-}
 
 :root {
       --color0: #e7e5b4;
