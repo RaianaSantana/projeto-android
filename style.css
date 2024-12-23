@@ -46,6 +46,7 @@ header {
     color: white;
     background-color: var(--color3);
     min-height: 150px;
+    min-width: 452px;
     text-align: center;
     background-image: linear-gradient(to bottom, var(--color3), var(--color5));
 }
